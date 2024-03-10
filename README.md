@@ -1,2 +1,12 @@
-# BugHunter-s-Arsenal
-"Your ultimate toolkit for bug hunting! Checklists, tools, and resources to uncover vulnerabilities. Let's hunt bugs together! 🐞"
+# BugHunters Arsenal
+
+Welcome to BugHunters Arsenal, your go-to toolkit for bug hunting! 🐞
+
+## Features:
+- Comprehensive checklists
+- Curated tools
+- Documentation templates
+- Learning resources
+
+Let's uncover vulnerabilities together!
+
